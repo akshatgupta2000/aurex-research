@@ -7,12 +7,17 @@
 ---
 
 ## 📌 About Aurex Research
-**Aurex Research** is my personal initiative focused on building **data-driven financial models, valuation frameworks, and analytical dashboards** to understand business fundamentals and long-term value creation.
+**Aurex Research** is an independent financial research and education initiative focused on **data-driven analysis, valuation frameworks, and long-form writing** on markets and businesses.
 
-The objective is to bridge:  
-**financial statements → structured analysis → actionable insights.**
+The goal is to bridge:  
+**financial statements → structured models → clear written insights.**
 
-This repository serves as the central hub for my research projects, Excel-based valuation models, dashboards, and documentation.
+Through Aurex Research, I:
+- build analyst-grade financial models,  
+- develop dashboards and analytical frameworks, and  
+- publish blogs and case-style articles to explain *how to think* about value creation, risk, and long-term fundamentals.
+
+This repository serves as the central hub for the **models, visuals, and documents** that support that research and writing.
 
 ---
 
@@ -34,6 +39,21 @@ A comprehensive **3-statement integrated FCFF DCF model** for the Indian Auto se
 
 📂 Model files:  
 `DCF-Models/`
+
+---
+
+## ✍️ Writing & Blogs
+
+Alongside building models, I regularly write articles on:
+- valuation frameworks and financial mental models,  
+- sector performance and outlook,  
+- financial modeling concepts, and  
+- case-style market analysis.
+
+These articles translate the analysis in this repository into **clear, educational insights**.
+
+📝 Read on Medium:  
+https://medium.com/@akshatgupta13427
 
 ---
 
