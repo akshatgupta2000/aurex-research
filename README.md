@@ -75,9 +75,12 @@ This enables structured **cross-market and cross-sector comparison**.
 
 Sample visuals:
 
-![Sector Overview India](assets/image/Sector%20Overview%20(India).png)
-![Fundamental Heatmap India](assets/image/Fundamental%20and%20RAPI%20score%20Heatmap%20(India).png)
+![DCF Valuation Dashboard](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
+
+![Capital Efficiency & Quality Analysis](assets/image/Capital%20Efficiency%20%26%20Quality%20Analysis.png)
+
 ![Valuation & Risk Diagnostics](assets/image/Valuation%20&%20Risk%20Diagnostics.png)
+
 
 ---
 
