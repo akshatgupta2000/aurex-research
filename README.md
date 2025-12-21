@@ -1,95 +1,84 @@
-# Hi, I'm Akshat Gupta 👋  
-**Founder | Aurex Research**  
-📊 Financial Modeling • Valuation • Fundamental Research • Dashboards
+# Aurex Research  
+**Independent Financial Research & Valuation Frameworks**  
+*By Akshat Gupta*
+
+![Aurex Research Logo](assets/image/Logo-Final.png)
 
 ---
 
-## 🚀 About Me
-I am an MBA (Finance) graduate passionate about building **analyst-grade financial models** and conducting deep fundamental research across sectors.  
-I focus on transforming financial statements into **structured valuation frameworks** that explain *why* a business is worth what it is.
+## 📌 About Aurex Research
+**Aurex Research** is my personal initiative focused on building **data-driven financial models, valuation frameworks, and analytical dashboards** to understand business fundamentals and long-term value creation.
 
-Currently building projects under **Aurex Research** — a personal initiative for financial education, analytics, and market insights.
+The objective is to bridge:  
+**financial statements → structured analysis → actionable insights.**
 
----
-
-## 🧠 Core Skills
-- 📈 Financial Modeling (3-Statement, DCF, FCFF, Stress Testing)
-- 🧮 Valuation Analysis (DCF, Relative Valuation, ROIC frameworks)
-- 📊 Advanced Excel (driver-based models, dashboards, scenarios)
-- 🧾 Financial Statement & Fundamental Analysis
-- 📉 Power BI (financial & sector dashboards)
-- 🗄️ MySQL (basic financial data handling)
-- 🔧 GitHub for versioning & documentation
+This repository serves as the central hub for my research projects, Excel-based valuation models, dashboards, and documentation.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Flagship Project
 
 ### 🔹 Auto Sector – Driver-Based DCF Valuation Model
-A full **3-statement integrated FCFF DCF model** with:
-- Driver-based revenue & margin forecasting  
+A comprehensive **3-statement integrated FCFF DCF model** for the Indian Auto sector, built using a driver-based forecasting approach.
+
+**Key features:**
+- Driver-based revenue and EBITDA margin forecasting  
+- Detailed working capital schedules (inventory, receivables, payables)  
+- Capex & depreciation modeling  
 - Dynamic WACC build-up  
-- Sensitivity analysis (WACC × terminal g)  
-- Multi-variable stress testing  
-- Output dashboard with scenario selection & interpretation  
+- FCFF-based DCF valuation with terminal value  
+- Sensitivity analysis (WACC × terminal growth heatmap)  
+- Multi-variable stress testing across key drivers  
+- Interactive **Output Dashboard** with scenario selection  
+- Model integrity checks
 
-➡️ Focused on understanding value drivers and downside risk in the Indian Auto sector.
-
-📁 Repo: https://github.com/akshatgupta2000/aurex-research
+📂 Model files:  
+`DCF-Models/`
 
 ---
 
-### 🔹 Cross-Market Financial Analytics Dashboard
-Power BI dashboard analyzing **India & US markets** across:
+## 📊 Cross-Market Analytics
+
+### 🔹 India & US Financial Analytics Dashboard
+A Power BI–driven research framework analyzing India & US markets across:
+
 - Macro indicators  
 - Sector benchmarks  
 - Company-level fundamentals  
-- Efficiency, profitability, leverage & valuation metrics  
+- Capital efficiency & profitability  
+- Valuation and risk diagnostics  
 
-➡️ Built to enable structured, data-driven cross-market comparison.
+This enables structured **cross-market and cross-sector comparison**.
 
-📁 Repo: https://github.com/akshatgupta2000/aurex-research
+📂 Visuals & charts:  
+`assets/image/`
 
----
+Sample visuals:
 
-### 🔹 Decoding India & US Corporate Landscape (2020–2030)
-A cross-sector research project covering:
-- 122 listed companies across 11 sectors  
-- ROCE-based efficiency analysis  
-- DCF & relative valuation frameworks  
-- Forecasts up to 2030  
-- Composite scorecards & insights  
-
-➡️ Focused on structural differences in profitability, reinvestment, and long-term fundamentals between India and the US.
-
-📁 Repo: https://github.com/akshatgupta2000/Cross-Market-Corporate-Analysis-2020-2030
+![Sector Overview India](assets/image/Sector%20Overview%20(India).png)
+![Fundamental Heatmap India](assets/image/Fundamental%20and%20RAPI%20score%20Heatmap%20(India).png)
+![Valuation & Risk Diagnostics](assets/image/Valuation%20&%20Risk%20Diagnostics.png)
 
 ---
 
-## ✍️ Writing & Research
-I write about:
-- Valuation frameworks & mental models  
-- Sector performance & outlook  
-- Financial modeling concepts  
-- Case-style analysis  
-
-📝 Medium: https://medium.com/@akshatgupta13427
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: akshatgupta13427@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/akshat-gupta-2100ag  
-- 🧠 Medium: https://medium.com/@akshatgupta13427  
+## 🧠 Skills & Frameworks Demonstrated
+- Financial Modeling: 3-Statement, FCFF DCF  
+- Valuation: intrinsic value estimation, equity bridge  
+- Driver-based forecasting  
+- Working capital & reinvestment analysis  
+- Sensitivity & stress testing  
+- Scenario analysis & dashboards  
+- Excel best practices: modular design, checks, governance  
+- Power BI for financial analytics  
 
 ---
 
-## 🎯 What I'm Working On
-- Building advanced valuation & LBO models  
-- Expanding Aurex Research as a learning & analysis platform  
-- Publishing structured finance case studies  
-- Exploring freelance opportunities in financial modeling & analytics  
+## 📁 Repository Structure
 
----
-
-⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
+```text
+aurex-research/
+│
+├── DCF-Models/          → Excel-based valuation models  
+├── Files/              → CV and detailed research documents  
+├── assets/image/       → Dashboards, heatmaps & research visuals  
+└── README.md           → Project overview & documentation
