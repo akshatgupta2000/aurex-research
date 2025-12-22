@@ -40,6 +40,8 @@ A comprehensive **3-statement integrated FCFF DCF model** for the Indian Auto se
 📂 Model files:  
 `DCF-Models/`
 
+Sample Visuals
+![DCF Valuation Dashboard](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
 ---
 
 ## ✍️ Writing & Blogs
@@ -74,8 +76,6 @@ This enables structured **cross-market and cross-sector comparison**.
 `assets/image/`
 
 Sample visuals:
-
-![DCF Valuation Dashboard](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
 
 ![Capital Efficiency & Quality Analysis](assets/image/Capital%20Efficiency%20%26%20Quality%20Analysis.png)
 
