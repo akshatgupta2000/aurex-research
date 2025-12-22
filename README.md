@@ -85,11 +85,10 @@ Sample visuals:
 ---
 
 ## 🧠 Skills & Frameworks Demonstrated
-- Financial Modeling: 3-Statement, FCFF DCF  
+- Financial Modeling: FCFF DCF  
 - Valuation: intrinsic value estimation, equity bridge  
-- Driver-based forecasting  
-- Working capital & reinvestment analysis  
-- Sensitivity & stress testing  
+- Driver-based forecasting    
+- Sensitivity (Telecom & Banking Sectors) 
 - Scenario analysis & dashboards  
 - Excel best practices: modular design, checks, governance  
 - Power BI for financial analytics  
