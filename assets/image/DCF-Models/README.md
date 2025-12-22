@@ -2,7 +2,7 @@
 **By Akshat Gupta | Aurex Research**
 
 ## 📌 Overview
-This project is a comprehensive, driver-based **3-statement financial model with FCFF DCF valuation** built for the Indian Auto sector company TATA Motors & SPV.  
+This project is a comprehensive, driver-based **3-statement financial model with FCFF DCF valuation** built for the Indian Auto sector company.  
 The model integrates operational drivers, dynamic capital structure assumptions, sensitivity analysis, and multi-variable stress testing to estimate intrinsic value and assess valuation risk under different scenarios.
 
 It is designed to replicate an **equity research / fundamental analysis style model** used in professional valuation and strategy settings.
