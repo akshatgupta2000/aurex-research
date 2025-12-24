@@ -41,7 +41,9 @@ A comprehensive **3-statement integrated FCFF DCF model** for the Indian Auto se
 `DCF-Models/`
 
 Sample Visuals
-![DCF Valuation Dashboard](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
+![Auto_Sector_DCF](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
+![FMCG_ROCE_Compounding_Dashboard](assets/image/DCF-Models/FMCG_ROCE_Compounding_Dashboard.png)
+
 ---
 
 ## ✍️ Writing & Blogs
