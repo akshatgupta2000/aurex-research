@@ -2,7 +2,7 @@
 **Independent Financial Research & Valuation Frameworks**  
 *By Akshat Gupta*
 
-![Aurex Research Logo](assets/image/Logo-Final.png)
+![Aurex Research Logo](assets/image/icons/Logo-Final.png)
 
 ---
 
