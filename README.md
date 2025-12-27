@@ -42,6 +42,10 @@ A comprehensive **3-statement integrated FCFF DCF model** for an Indian auto maj
 📂 Model files:  
 `DCF-Models/`
 
+### 📊 Sample Visuals
+
+![Auto_Sector_DCF](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
+
 ---
 
 ### 🔹 FMCG ROCE Compounding Model – HUL vs ITC
@@ -58,15 +62,35 @@ A **ROCE-driven compounding framework** comparing two FMCG leaders to study how 
 - Optimized terminal value share (~75–80% of EV)
 
 📂 Model files:  
-`DCF-Models/`
-
----
+`DCF-Models/Models`
 
 ### 📊 Sample Visuals
 
-![Auto_Sector_DCF](assets/image/DCF-Models/DCF_Valuation_Dashboard_v1.png)
-
 ![FMCG_ROCE_Compounding_Dashboard](assets/image/DCF-Models/FMCG_ROCE_Compounding_Dashboard.png)
+
+
+### 🔹 LBO + DCF Transaction Model (IT Services Case)
+A premium Leveraged Buyout (LBO) transaction dashboard built within the same valuation workbook to analyze how operational performance, leverage, and exit assumptions translate into equity returns.
+This framework complements traditional DCF analysis by adding a private equity lens — focusing on capital structure, debt paydown, and exit value creation, without making any investment recommendations.
+
+**Key features:**
+
+- Entry valuation snapshot (EV, EBITDA, entry multiple)
+- Capital structure & funding mix (Debt vs Equity)
+- Debt schedule with cash sweep and paydown logic
+- Exit valuation using EV/EBITDA multiple
+- Equity bridge from entry to exit (waterfall)
+- Returns analysis: MOIC & Equity IRR
+- Scenario-driven assumptions (holding period, leverage, cost of debt, fees)
+- Integrated Transaction Summary Dashboard with charts
+- Designed to be fully compatible with the underlying operating & DCF model
+
+📂 Model files:  
+`DCF-Models/Models`
+
+### 📊 Sample Visuals
+
+![LBO_Transaction_Summary_Dashboard](assets/image/DCF-Models/LBO Transaction Summary Dashboard.png) 
 
 ---
 
