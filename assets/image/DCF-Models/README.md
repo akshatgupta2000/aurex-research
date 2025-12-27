@@ -1,4 +1,4 @@
-# DCF Models & Dashboards  
+# Financial Models & Dashboards  
 **Aurex Research | By Akshat Gupta**
 
 ---
@@ -37,6 +37,14 @@ This directory includes dashboard and output snapshots from multiple projects, s
 - Scenario and sensitivity-based valuation outputs  
 - One-page premium ROCE compounding dashboard  
 
+### 🔹 LBO + DCF Transaction Model (IT Services Case)
+- Integrated FCFF DCF + LBO framework in a single workbook
+- Entry valuation with funding mix (Debt/Equity) and transaction fees
+- Cash-flow–driven debt paydown schedule with leverage tracking
+- Exit valuation using EV/EBITDA multiple and equity bridge
+- Returns analysis: MOIC & Equity IRR across scenarios
+- Premium LBO Transaction Summary Dashboard with visuals
+  
 *(Additional sector DCF models will be added over time.)*
 
 ---
@@ -45,12 +53,13 @@ This directory includes dashboard and output snapshots from multiple projects, s
 
 Across the models, the dashboards highlight:
 
-- Intrinsic value per share & upside/downside  
-- Key operating and valuation assumptions  
-- ROCE, growth & cash flow trends  
-- Sensitivity to WACC and terminal growth  
-- Stress test outcomes across scenarios  
-- Interpretation of key value drivers  
+- Intrinsic value per share and upside/downside
+- Key operating and valuation assumptions
+- ROCE, growth, and cash flow trends
+- Sensitivity to WACC and terminal growth
+- Stress test outcomes across scenarios
+- Transaction metrics (MOIC, IRR, leverage, equity bridge)
+- Interpretation of the primary value drivers
 
 These visuals summarize the economic story behind each valuation.
 
