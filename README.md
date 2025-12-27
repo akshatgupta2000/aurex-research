@@ -90,7 +90,7 @@ This framework complements traditional DCF analysis by adding a private equity l
 
 ### 📊 Sample Visuals
 
-![LBO_Transaction_Summary_Dashboard](assets/image/DCF-Models/LBO Transaction Summary Dashboard.png) 
+![LBO_Transaction_Summary_Dashboard](assets/image/DCF-Models/LBO_Transaction_Summary_Dashboard.png) 
 
 ---
 
