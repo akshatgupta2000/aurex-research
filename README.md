@@ -40,7 +40,7 @@ A comprehensive **3-statement integrated FCFF DCF model** for an Indian auto maj
 - Dedicated **Checks** for model integrity  
 
 📂 Model files:  
-`DCF-Models/`
+`DCF-Models/Models`
 
 ### 📊 Sample Visuals
 
