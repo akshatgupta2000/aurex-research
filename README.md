@@ -94,6 +94,30 @@ This framework complements traditional DCF analysis by adding a private equity l
 
 ---
 
+### 🔹 Valuation Dashboard - Deterministic & Probabilistic View
+This project presents an advanced operating-driven valuation framework combined with Monte Carlo simulation to analyze intrinsic value under uncertainty. The model is built entirely in Excel and focuses on economic drivers, cash-flow generation, and probabilistic outcomes, rather than full accounting statements or point estimates.
+
+**Key Features**
+
+- Operating model–led valuation framework, linking revenue growth, profitability, reinvestment intensity, and capital efficiency directly to FCFF.
+- Explicit modeling of **value drivers** such as operating margins, reinvestment rates, terminal ROIC, and cost of capital.
+- **Monte Carlo simulation engine** to capture uncertainity across key assumptions (growth, margins, reinvestment, WACC, terminal growth)
+- **Probability-based valuation outputs,** including likelihood of intrinsic value exceeding market price and expected payoff metrics.
+- **Percentile-driven WACC x terminal growth sensitivity surface,** derived from simulated distributions rather than static inputs.
+- Distribution analysis through **histogram and risk metrics,** emphasizing downside severity, upside convexity, and valuation fragility.
+- **Premium Output Dashboard** designed to communicate ranges, probabilities, and economic intuition clearly without relying on investment recommendations.
+
+The framework emphasizes **how value is created and how fragile it is to assumptions,** making it suitable for research, learning, and analytical presentation rather than stock selection.
+
+📂 Model files:  
+`DCF-Models/Models`
+
+### 📊 Sample Visuals
+
+![Valuation_Dashboard_Deterministic_&_Probabilistic_View](assets/image/DCF-Models/Valuation_Dashboard-Deterministic_&_Probabilistic_View.png)
+
+---
+
 ## ✍️ Writing & Blogs
 
 Alongside building models, I regularly write about:
@@ -135,13 +159,13 @@ Sample visuals:
 
 ## 🧠 Skills & Frameworks Demonstrated
 
-- Financial Modeling: integrated 3-statement, FCFF DCF  
+- Financial Modeling: integrated 3-statement, FCFF DCF, Monte Carlo engines
 - Valuation: intrinsic value, equity bridge, ROCE-based frameworks  
 - Driver-based forecasting & scenario systems  
 - Sensitivity & stress testing  
 - Dashboard design for interpretation  
 - Excel best practices: modular design, checks, governance  
-- Power BI for financial & sector analytics  
+- Power BI for financial & sector analytics
 
 ---
 
@@ -153,4 +177,5 @@ aurex-research/
 ├── DCF-Models/          → Excel-based valuation & ROCE frameworks (Screenshots only)
 ├── Files/              → CV and detailed research documents  
 ├── assets/image/       → Dashboards, heatmaps & research visuals  
-└── README.md           → Project overview & documentation
+├── README.md           → Project overview & documentation
+└── DCF-Models/Models   → Excel-based valuation models (Excel)
