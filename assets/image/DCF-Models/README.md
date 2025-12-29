@@ -44,6 +44,15 @@ This directory includes dashboard and output snapshots from multiple projects, s
 - Exit valuation using EV/EBITDA multiple and equity bridge
 - Returns analysis: MOIC & Equity IRR across scenarios
 - Premium LBO Transaction Summary Dashboard with visuals
+
+### 🔹 Valuation Dashboard - Deterministic & Probabilistic View
+- Operating model linking **growth, profitability, reinvestment, and FCFF**
+- Explicit focus on **economic value drivers** instead of accounting statements
+- **Monte Carlo simulation** to model uncertainity across key assumptions
+- **Percentile-based WACC x g sensitivity surface** built from simulated outcomes
+- Clean, analyst-grade **Output Dashboard** summarizing risk, dispersion, and valuation robustness
+
+The project highlights **probabilistic thinking and valuation fragility,** offering a structured approach to understanding long-term value under uncertainity.
   
 *(Additional sector DCF models will be added over time.)*
 
@@ -60,6 +69,7 @@ Across the models, the dashboards highlight:
 - Stress test outcomes across scenarios
 - Transaction metrics (MOIC, IRR, leverage, equity bridge)
 - Interpretation of the primary value drivers
+- Monte Carlo simulation engine & fragility model
 
 These visuals summarize the economic story behind each valuation.
 
