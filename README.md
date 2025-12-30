@@ -1,4 +1,4 @@
-# Aurex Research  
+8# Aurex Research  
 **Independent Financial Research & Valuation Frameworks**  
 *By Akshat Gupta*
 
@@ -128,8 +128,8 @@ Alongside building models, I regularly write about:
 
 These articles translate the analysis in this repository into **clear, educational insights**.
 
-📝 Read on Substack / Medium:  
-https://medium.com/@akshatgupta13427  
+📝 Read on Substack:  
+https://substack.com/@aurexresearch 
 
 ---
 
