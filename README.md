@@ -169,6 +169,8 @@ Sample visuals:
 
 ---
 
+Note: **Use Excel 365 version to view the models**
+
 ## 📁 Repository Structure
 
 ```text
