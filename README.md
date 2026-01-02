@@ -118,6 +118,23 @@ The framework emphasizes **how value is created and how fragile it is to assumpt
 
 ---
 
+###  🔹 Monte Carlo Valuation - Distribution & Risk View
+- End-to-end operating-model–linked valuation framework, integrating FCFF-based DCF with probabilistic Monte Carlo simulation
+- Distribution-aware valuation engine capturing uncertainty across growth, margins, reinvestment, ROIC, WACC, and terminal assumptions
+- Dedicated Model Health & Governance layer to validate valuation logic, simulation integrity, and economic consistency
+- Scenario-agnostic design enabling risk-reward assessment beyond point estimates, including downside, dispersion, and value drivers
+- Research-grade structure, aligned with published academic and practitioner work (SSRN & independent research publications)
+- Fully modular, extensible architecture suitable for advanced equity research, strategy, and capital allocation analysis
+
+📂 Model files:  
+`DCF-Models/Models`
+
+### 📊 Sample Visuals
+
+![Monte_Carlo_Valuation-Distribution_&_Risk_View](assets/image/DCF-Models/Monte_Carlo_Valuation-Distribution_&_Risk_View.png)
+
+---
+
 ## ✍️ Writing & Blogs
 
 Alongside building models, I regularly write about:
