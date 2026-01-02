@@ -1,4 +1,4 @@
-8# Aurex Research  
+# Aurex Research  
 **Independent Financial Research & Valuation Frameworks**  
 *By Akshat Gupta*
 
