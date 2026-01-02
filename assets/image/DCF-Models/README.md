@@ -52,6 +52,14 @@ This directory includes dashboard and output snapshots from multiple projects, s
 - **Percentile-based WACC x g sensitivity surface** built from simulated outcomes
 - Clean, analyst-grade **Output Dashboard** summarizing risk, dispersion, and valuation robustness
 
+### 🔹 Monte Carlo Valuation - Distribution & Risk View
+- End-to-end operating-model–linked valuation framework, integrating FCFF-based DCF with probabilistic Monte Carlo simulation
+- Distribution-aware valuation engine capturing uncertainty across growth, margins, reinvestment, ROIC, WACC, and terminal assumptions
+- Dedicated Model Health & Governance layer to validate valuation logic, simulation integrity, and economic consistency
+- Scenario-agnostic design enabling risk-reward assessment beyond point estimates, including downside, dispersion, and value drivers
+- Research-grade structure, aligned with published academic and practitioner work (SSRN & independent research publications)
+- Fully modular, extensible architecture suitable for advanced equity research, strategy, and capital allocation analysis
+
 The project highlights **probabilistic thinking and valuation fragility,** offering a structured approach to understanding long-term value under uncertainity.
   
 *(Additional sector DCF models will be added over time.)*
